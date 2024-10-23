@@ -16,8 +16,10 @@ Once a certain predetermined threshold is reached, the doantions are distributed
 
 Befor Smart Contratct is triggered:
 ![image](https://github.com/user-attachments/assets/64574446-1238-4591-9eaf-d05c0b662608)
+
 After Smart Contract is triggered:
 ![image](https://github.com/user-attachments/assets/fe00a9d6-8628-4906-a4cc-054fb1e311d5)
+
 As we can see, one ETH is trasferred equally to all 5 wallets owned by the temple as soon as the wallet balance of the wallet accepting the doantions crosses the set threshold of 5 ETH.
 
 # Conclusion
