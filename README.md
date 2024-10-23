@@ -8,7 +8,7 @@ Given these challenges, blockchain appears as a possible solution to address the
 # Problem Statement
 Temples in India receive donations on a very large scale yet they use old centralized systems like traditional banking and cash deposits to collect donations. This builds up to a lack of transparency and accountability on the side of the temples leading to mishandling of funds and other issues like money laundering.
 
-#[Proposed Solution](https://youtu.be/sk4hWT-_EHI)
+# [Proposed Solution](https://youtu.be/sk4hWT-_EHI)
 
 To develop a  fund management system for temples which will be accessed by two main users:Temple admin and User via web-technology using blockchain methodology.This web-technology solves the problem of discrepancies in fund management occurring in today's time it has increased the level of transparency and eradicates middlemen between the user and temple.The user is aware where his funds are being spent with the help of blockchain each and every transaction is on a distributed ledger which will be accessible to user.Morever each transaction is triggered by smart contract and thus is immutable helping in achieving the desired goal.
 
